@@ -18,7 +18,7 @@ API_TEXT = """🙋‍♂ Hi {},
 
 I am Tamil string generator bot.
 
-Support @Tamilinisupport
+Support @Tamilsupport
 
 For generating string session send me your `API_ID` 🐿
 """
