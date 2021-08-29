@@ -16,7 +16,9 @@ from pyrogram.errors import (
 
 API_TEXT = """🙋‍♂ Hi {},
 
-I am a String Session generator bot.
+I am Athena string generator bot.
+
+Created by @My_Dear_lightbright
 
 For generating string session send me your `API_ID` 🐿
 """
